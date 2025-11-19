@@ -1,4 +1,4 @@
-# 1.1-HerenciaYPolimorfismo-Nivel1
+#1.1-Inheritance and Polymorphism-Level 1
 
 📄Exercises 1 and 2 of Sprint1 Level 1
 
@@ -20,21 +20,19 @@ Create a demonstration of the different ways a class is loaded into memory by th
 🛠️Instal·lació
 
 
-Clona aquest repositori: -> git clone
-Accedeix al directori del projecte:   cd 1.1-HerenciaYPolimorfismo-Nivell1
+1. Clone this repository : -> git clone
+2. Access the project directory:   cd 1.1-HerenciaYPolimorfismo-Nivell1
 
 
 ▶️Execució
 
-Instruccions per a l'execució del projecte un cop instal·lat.
+Run the program in IntelliJ
 
 
 🌐Desplegament
 
-Instruccions per al desplegament del projecte en un entorn de producció o servidor.
-
 
 🤝Contribucions
 
-Normes i guies per a contribuir al projecte, si escau.
+- Review the exercise
 
